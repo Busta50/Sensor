@@ -1,4 +1,4 @@
 # Sensor de temperatura
-#Por: Jesus Bustamante
+# Por: Jesus Bustamante
 
 ![](.png)
