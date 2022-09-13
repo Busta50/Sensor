@@ -1,4 +1,4 @@
-# Sensor de temperatura
+# Pantalla LED
 # Por: Jesus Bustamante
 
 ![](.png)
