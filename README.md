@@ -14,13 +14,17 @@ Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 
 
 APLICACIONES DE LA PANTALLA OLED
 
--Smartwatch (Reloj Inteligente)
-
--Equipos médicos portátiles
-
--Equipos industriales
-
--Equipos de Audio
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+\begin{table}[]
+\begin{tabular}{@{}l@{}}
+\toprule
+\textbf{-Smartwatch (Reloj Inteligente)} \\ \midrule
+\textbf{-Equipos médicos portátiles}     \\
+\textbf{-Equipos industriales}           \\
+\textbf{-Equipos de Audio}               \\ \bottomrule
+\end{tabular}
+\end{table}
 
 PANTALLA EN USO
 ![](Display4.png)
