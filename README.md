@@ -5,7 +5,13 @@ En el siguiente material apreciaremos la diferencia de las pantallas.
 Para ello iniciaremos con:
 ![](titulo.png)
 
+Las pantallas OLED se destacan por su gran contraste, mínimo consumo de energía y buena calidad de imagen. El display oled 0.96" SPI SSD1306 posee una resolución de 128*64 píxeles, permitiendo controlar cada píxel individualmente y mostrar tanto texto como gráficos. Además por ser de tipo OLED no necesita de retroiluminación (Backlight) como los LCD, lo que hace que su consumo de energía sea mucho menor y aumenta su contraste.
+
+Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 1K de RAM, este espacio cumple la función de buffer para el display. El driver de la pantalla es el SSD1306, con una librería lista para usarse en Arduino. La librería permite mostrar texto, mapas de bits, píxeles, rectángulos, círculos y líneas. A pesar de usar 1K de RAM, el funcionamiento es muy rápido y el código es fácilmente portable a distintas plataformas de microcontroladores.
+
 ![](Display.png)
+![](Display2.png)
+![](Display3.png)
 
 |          **Módelo**          | **Pulgadas** | **Costo** | **Píxeles** |  **Voltaje** |
 |:----------------------------:|:------------:|:---------:|:-----------:|:------------:|
