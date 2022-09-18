@@ -11,7 +11,13 @@ Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 
 
 ![](Display.png)
 ![](Display2.png)
-![](Display3.png)
+
+# Aplicaciones de la pantalla OLED
+
+-Smartwatch (Reloj Inteligente)
+-Equipos médicos portátiles
+-Equipos industriales
+-Equipos de Audio
 
 |          **Módelo**          | **Pulgadas** | **Costo** | **Píxeles** |  **Voltaje** |
 |:----------------------------:|:------------:|:---------:|:-----------:|:------------:|
