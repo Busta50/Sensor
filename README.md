@@ -1,8 +1,8 @@
 # Pantalla LED y LCD, COMPARATIVA
 # Por: Jesus Bustamante
 
-En el siguiente material apreciaremos la diferencia de las pantallas.
-Para ello iniciaremos con:
+**En el siguiente material apreciaremos la diferencia de las pantallas.**
+**Para ello iniciaremos con:**
 ![](titulo.png)
 
 Las pantallas OLED se destacan por su gran contraste, mínimo consumo de energía y buena calidad de imagen. El display oled 0.96" SPI SSD1306 posee una resolución de 128*64 píxeles, permitiendo controlar cada píxel individualmente y mostrar tanto texto como gráficos. Además por ser de tipo OLED no necesita de retroiluminación (Backlight) como los LCD, lo que hace que su consumo de energía sea mucho menor y aumenta su contraste.
@@ -12,21 +12,15 @@ Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 
 ![](Display.png)
 ![](Display2.png)
 
-APLICACIONES DE LA PANTALLA OLED
+**APLICACIONES DE LA PANTALLA OLED**
+| **-Smartwatch (Reloj Inteligente)** |
+|-------------------------------------|
+| **-Equipos médicos portátiles**     |
+| **-Equipos industriales**           |
+| **-Equipos de Audio**               |
 
-% Please add the following required packages to your document preamble:
-% \usepackage{booktabs}
-\begin{table}[]
-\begin{tabular}{@{}l@{}}
-\toprule
-\textbf{-Smartwatch (Reloj Inteligente)} \\ \midrule
-\textbf{-Equipos médicos portátiles}     \\
-\textbf{-Equipos industriales}           \\
-\textbf{-Equipos de Audio}               \\ \bottomrule
-\end{tabular}
-\end{table}
+**PANTALLA EN USO**
 
-PANTALLA EN USO
 ![](Display4.png)
 
 
