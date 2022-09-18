@@ -12,12 +12,18 @@ Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 
 ![](Display.png)
 ![](Display2.png)
 
-# Aplicaciones de la pantalla OLED
+APLICACIONES DE LA PANTALLA OLED
 
 -Smartwatch (Reloj Inteligente)
+
 -Equipos médicos portátiles
+
 -Equipos industriales
+
 -Equipos de Audio
+
+PANTALLA EN USO
+![](Display4.png)
 
 
 Ahora mostraremos la eficacia de la pantalla LCD
