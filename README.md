@@ -1,6 +1,8 @@
-# Pantalla LED
+# Pantalla LED y LCD, COMPARATIVA
 # Por: Jesus Bustamante
 
+# En el siguiente material apreciaremos la diferencia de las pantallas.
+# Para ello iniciaremos con:
 ![](titulo.png)
 
 ![](Display.png)
