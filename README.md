@@ -19,6 +19,14 @@ Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 
 -Equipos industriales
 -Equipos de Audio
 
+
+Ahora mostraremos la eficacia de la pantalla LCD
+![](titulo2.png)
+![](dis1.png)
+![](dis2.png)
+![](dis4.png)
+![](dis.png)
+
 |          **Módelo**          | **Pulgadas** | **Costo** | **Píxeles** |  **Voltaje** |
 |:----------------------------:|:------------:|:---------:|:-----------:|:------------:|
 |            SSD1306           |     0.96"    |    $135   |   128 X 64  | 1.65V a 3.3V |
