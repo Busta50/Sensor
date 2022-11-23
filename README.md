@@ -23,6 +23,7 @@ Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 
 
 ![](Display4.png)
 
+![](AA.jpg)
 
 **Caracteristicas**
 
