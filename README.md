@@ -1,4 +1,4 @@
-# Pantalla LED y LCD, COMPARATIVA
+# Pantalla LED 
 # Por: Jesus Bustamante
 
 **En el siguiente material apreciaremos la diferencia de las pantallas.**
@@ -24,25 +24,11 @@ Para manejar la pantalla es necesario utilizar un microcontrolador con al menos 
 ![](Display4.png)
 
 
-**Ahora mostraremos la eficacia de la pantalla LCD**
-![](titulo2.png)
-
-¡Esta pantalla TFT es grande, brillante (4 retroiluminación LED blanca) y colorida! 240x320 píxeles con control de píxeles RGB individual, esto tiene mucha más resolución que una pantalla en blanco y negro de 128x64. Como beneficio adicional, esta pantalla ya tiene una pantalla táctil resistiva conectada a ella, por lo que puede detectar las pulsaciones de los dedos en cualquier lugar de la pantalla.
-
-Esta pantalla tiene un controlador integrado con almacenamiento en búfer de RAM, de modo que el microcontrolador casi no realiza ningún trabajo.
-
-Si va con el modo SPI, también puede aprovechar el zócalo de tarjeta MicroSD incorporado para mostrar imágenes.
-
-![](LCD1.png)
-![](LCD2.png)
-![](LCD3.png)
-
 **Caracteristicas**
 
 |          **Módelo**          | **Pulgadas** | **Costo** | **Píxeles** |  **Voltaje** |
 |:----------------------------:|:------------:|:---------:|:-----------:|:------------:|
 |            SSD1306           |     0.96"    |    $135   |   128 X 64  | 1.65V a 3.3V |
-| LCD TFT 2.8plg Touch ILI9341 |     2.8"     |    $300   |  240 x 320  |     3.3V     |
 
 
 | **Fuentes de información**                                                        |
